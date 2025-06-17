@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush.T</h1>
-<h3 align="center">Aspiring Software Developer eager to expand knowledge and gain hands-on experience through an internship. Passionate about exploring new technologies, frameworks, and development methodologies. Strong foundation in programming languages like Python, Java, and JavaScript, with a keen interest in cloud computing, AI, and database management. A proactive learner who thrives in dynamic environments, excited to collaborate with teams, solve challenges, and contribute to innovative projects. Committed to continuous growth and adaptability in the ever-evolving tech landscape.</h3>
+<h5 align="center">Aspiring Software Developer eager to expand knowledge and gain hands-on experience through an internship. Passionate about exploring new technologies, frameworks, and development methodologies. Strong foundation in programming languages like Python, Java, and JavaScript, with a keen interest in cloud computing, AI, and database management. A proactive learner who thrives in dynamic environments, excited to collaborate with teams, solve challenges, and contribute to innovative projects. Committed to continuous growth and adaptability in the ever-evolving tech landscape.</h5>
 
 - 🔭 I’m currently working on **Bootstrap**
 
