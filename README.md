@@ -23,22 +23,22 @@ I'm a final-year **AI &amp; Data Science** student and an **AI/ML &amp; Agentic 
 <table width="100%">
   <tr>
     <td width="22%"><b>🤖 Building</b></td>
-    <td><img align="right" width="1400" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" alt="" />AI agents and multi-agent systems with LangChain &amp; LangGraph</td>
+    <td>AI agents and multi-agent systems with LangChain &amp; LangGraph</td>
   </tr>
   <tr>
-    <td width="22%"><b>🧠 Exploring</b></td>
+    <td><b>🧠 Exploring</b></td>
     <td>LLMs, RAG, Machine Learning, Deep Learning, MCP</td>
   </tr>
   <tr>
-    <td width="22%"><b>🛠️ Working with</b></td>
+    <td><b>🛠️ Working with</b></td>
     <td>Python, FastAPI, React, SQL, Docker</td>
   </tr>
   <tr>
-    <td width="22%"><b>🎯 Looking for</b></td>
+    <td><b>🎯 Looking for</b></td>
     <td>Opportunities in AI/ML and Agentic AI to learn, innovate and build impactful solutions</td>
   </tr>
   <tr>
-    <td width="22%"><b>📍 Based in</b></td>
+    <td><b>📍 Based in</b></td>
     <td>Chennai, India</td>
   </tr>
 </table>
@@ -50,27 +50,23 @@ I'm a final-year **AI &amp; Data Science** student and an **AI/ML &amp; Agentic 
 <table width="100%">
   <tr>
     <td width="22%"><b>AI / ML</b></td>
-    <td><img align="right" width="1400" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" alt="" /><img src="https://skillicons.dev/icons?i=python" height="48" title="Python" alt="Python" />&nbsp;<img src="https://skillicons.dev/icons?i=pytorch" height="48" title="PyTorch" alt="PyTorch" />&nbsp;<img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="TensorFlow" alt="TensorFlow" />&nbsp;<img src="https://skillicons.dev/icons?i=sklearn" height="48" title="scikit-learn" alt="scikit-learn" />&nbsp;<img src="https://skillicons.dev/icons?i=opencv" height="48" title="OpenCV" alt="OpenCV" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=7" height="44" alt="AI/ML" /></td>
   </tr>
   <tr>
-    <td width="22%"><b>Agentic AI</b></td>
-    <td><img src="assets/langchain.svg" height="48" title="LangChain" alt="LangChain" />&nbsp;<img src="assets/langgraph.svg" height="48" title="LangGraph" alt="LangGraph" />&nbsp;<img src="assets/mcp.svg" height="48" title="MCP (Model Context Protocol)" alt="MCP (Model Context Protocol)" />&nbsp;<img src="assets/api.svg" height="48" title="REST APIs" alt="REST APIs" /></td>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,fastapi,django,mysql,postgres,mongodb,redis&perline=8" height="44" alt="Backend" /></td>
   </tr>
   <tr>
-    <td width="22%"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java" height="48" title="Java" alt="Java" />&nbsp;<img src="https://skillicons.dev/icons?i=spring" height="48" title="Spring Boot" alt="Spring Boot" />&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" height="48" title="FastAPI" alt="FastAPI" />&nbsp;<img src="https://skillicons.dev/icons?i=django" height="48" title="Django" alt="Django" />&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" alt="MySQL" />&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB" alt="MongoDB" />&nbsp;<img src="https://skillicons.dev/icons?i=redis" height="48" title="Redis" alt="Redis" /></td>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind&perline=6" height="44" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td width="22%"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react" height="48" title="React" alt="React" />&nbsp;<img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" alt="JavaScript" />&nbsp;<img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5" alt="HTML5" />&nbsp;<img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3" alt="CSS3" />&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap" height="48" title="Bootstrap" alt="Bootstrap" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" height="48" title="Tailwind CSS" alt="Tailwind CSS" /></td>
+    <td><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,aws,gcp,firebase,vercel,netlify,cloudflare&perline=11" height="44" alt="DevOps and Cloud" /></td>
   </tr>
   <tr>
-    <td width="22%"><b>DevOps &amp; Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker" alt="Docker" />&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="48" title="Nginx" alt="Nginx" />&nbsp;<img src="https://skillicons.dev/icons?i=git" height="48" title="Git" alt="Git" />&nbsp;<img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" alt="GitHub" />&nbsp;<img src="https://skillicons.dev/icons?i=githubactions" height="48" title="GitHub Actions" alt="GitHub Actions" />&nbsp;<img src="https://skillicons.dev/icons?i=aws" height="48" title="AWS" alt="AWS" />&nbsp;<img src="https://skillicons.dev/icons?i=gcp" height="48" title="Google Cloud" alt="Google Cloud" />&nbsp;<img src="https://skillicons.dev/icons?i=firebase" height="48" title="Firebase" alt="Firebase" />&nbsp;<img src="https://skillicons.dev/icons?i=vercel" height="48" title="Vercel" alt="Vercel" />&nbsp;<img src="https://skillicons.dev/icons?i=netlify" height="48" title="Netlify" alt="Netlify" />&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare" height="48" title="Cloudflare" alt="Cloudflare" /></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman" alt="Postman" />&nbsp;<img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" alt="VS Code" />&nbsp;<img src="https://skillicons.dev/icons?i=tauri" height="48" title="Tauri" alt="Tauri" /></td>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postman,vscode,tauri&perline=3" height="44" alt="Tools" /></td>
   </tr>
 </table>
 
