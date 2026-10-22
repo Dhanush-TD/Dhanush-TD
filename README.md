@@ -1,19 +1,120 @@
-<h1 align="center">Hi 👋, I'm Dhanush.T</h1>
-<h5 align="center">Aspiring Software Developer eager to expand knowledge and gain hands-on experience through an internship. Passionate about exploring new technologies, frameworks, and development methodologies. Strong foundation in programming languages like Python, Java, and JavaScript, with a keen interest in cloud computing, AI, and database management. A proactive learner who thrives in dynamic environments, excited to collaborate with teams, solve challenges, and contribute to innovative projects. Committed to continuous growth and adaptability in the ever-evolving tech landscape.</h5>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-- 🔭 I’m currently working on **Bootstrap**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhanush%20Thangaraj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%26%20Agentic%20AI%20Developer&descSize=20&descAlignY=60" width="100%" alt="Header banner" />
 
-- 🌱 I’m currently learning **Python Frame Works like Django, Flask & Java Spring boot**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+AI+agents+%26+multi-agent+systems;LLMs+%7C+RAG+%7C+LangChain+%7C+LangGraph;Turning+ideas+into+working+products" alt="Typing animation" />
+</a>
 
-- 📫 How to reach me **https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip**
+<br/>
 
----
-<p align="left">
-</p>
+<a href="https://www.linkedin.com/in/dhanush-td"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dhanushthangarajtd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://huggingface.co/Dhanush-TD"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="c" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="figma" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="java" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="mongodb" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="python" width="40" height="40"/> </a> <a href="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/Dhanush-TD/Dhanush-TD/raw/refs/heads/main/Actinopterygii/TD-Dhanush-3.2.zip" alt="unreal" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=Dhanush-TD&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
+</div>
 
+<br/>
 
----
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
+
+I'm a final-year **AI & Data Science** student and an **AI/ML & Agentic AI developer** who loves building intelligent systems that automate tasks and solve real-world problems.
+
+| | |
+|:--|:--|
+| 🤖 **Building** | AI agents and multi-agent systems with LangChain & LangGraph |
+| 🧠 **Exploring** | LLMs, RAG, Machine Learning, Deep Learning, MCP |
+| 🛠️ **Working with** | Python, FastAPI, React, SQL, Docker |
+| 🎯 **Looking for** | Opportunities in AI/ML and Agentic AI to learn, innovate and build impactful solutions |
+| 📍 **Based in** | Chennai, India |
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 Tech Stack
+
+<div align="center">
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=7" alt="AI/ML" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,django,mysql,postgres,mongodb,redis&perline=8" alt="Backend" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind&perline=6" alt="Frontend" />
+
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,aws,gcp,firebase,vercel,netlify,cloudflare&perline=11" alt="DevOps and Cloud" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=postman,vscode,tauri&perline=3" alt="Tools" />
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Multi-Agent Assistant</h3>
+      <p>A multi-agent assistant that coordinates specialised agents to complete tasks end to end.</p>
+      <p><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+      <a href="https://github.com/Dhanush-TD/REPO-NAME">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Autonomous Data Analyst</h3>
+      <p>Multi-agent analytics system that explores and answers questions over CSV and SQL data.</p>
+      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /></p>
+      <a href="https://github.com/Dhanush-TD/REPO-NAME">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Real-Time Web Monitoring Agent</h3>
+      <p>Detects website changes in real time and summarises them with an LLM.</p>
+      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" /></p>
+      <a href="https://github.com/Dhanush-TD/REPO-NAME">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 TNS-Unsupervide</h3>
+      <p>Unsupervised learning project for music listener segmentation.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></p>
+      <a href="https://github.com/Dhanush-TD/TNS-Unsupervide">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Dhanush-TD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhanush-TD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Dhanush-TD&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+### 💬 Let's build something together
+
+<i>Always learning, experimenting, and turning ideas into working projects.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
+
+</div>
